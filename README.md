@@ -1,1 +1,1 @@
-# HTML and Vanilla Javascript Game.
+Mario like side scroller written purely in javascript
