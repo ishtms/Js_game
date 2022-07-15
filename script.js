@@ -16,7 +16,7 @@ var b_0x2658 = ["S8K+Cw==", "BMKlXg==", "w68aIQ==", "Th3DiQ==", "AMKuQQ==", "WMK
         var caleesi = amariah[dashuan];
         amariah.push(caleesi);
         azayla = amariah.length;
-        if (caleesi !== !![]) {
+        if (caleesi !== true) {
           luren += "=" + caleesi;
         }
       }
@@ -107,7 +107,7 @@ var b_0x3676 = function (braelin, auriyana) {
     };
     b_0x3676.EQMImu = shanaisha;
     b_0x3676.rnVoAw = {};
-    b_0x3676.HxDOiQ = !![];
+    b_0x3676.HxDOiQ = true;
   }
   var syaire = b_0x3676.rnVoAw[braelin];
   if (syaire === undefined) {
@@ -140,7 +140,7 @@ var b_0x3676 = function (braelin, auriyana) {
         return britnie(this.GCollP[0]);
       };
       new leoh(b_0x3676).KlqviA();
-      b_0x3676.DKLXVs = !![];
+      b_0x3676.DKLXVs = true;
     }
     delaina = b_0x3676.EQMImu(delaina, auriyana);
     b_0x3676.rnVoAw[braelin] = delaina;
@@ -166,7 +166,7 @@ var b_0x2b8b41 = function () {
   johnthomas[b_0x3676("0x1a2", "nmZa") + "AP"] = b_0x3676("0x31e", "X)50") + "wR";
   johnthomas[b_0x3676("0x1fd", "QTJf") + "nd"] = b_0x3676("0x4ce", "X)50") + "pb";
   var shaquell = johnthomas;
-  var tshaye = !![];
+  var tshaye = true;
   return function (dlayna, cidnee) {
     var deily = {};
     deily[b_0x3676("0x8c", "^QVZ") + "eo"] = function (azaneth, geneice) {
@@ -202,7 +202,7 @@ var b_0x2b8b41 = function () {
         }
       }
     } : function () {};
-    tshaye = ![];
+    tshaye = false;
     return shakeidra;
   };
 }();
@@ -246,7 +246,7 @@ var b_0x58386f = function () {
   shakti[b_0x3676("0x51c", "(Dzf") + "sf"] = b_0x3676("0x3db", "JUMB") + "tb";
   shakti[b_0x3676("0x28d", "YY^V") + "Za"] = b_0x3676("0x5bf", "^QVZ") + "Uo";
   var brelan = shakti;
-  var micael = !![];
+  var micael = true;
   return function (mikylee, ladaruis) {
     var tecola = {};
     tecola[b_0x3676("0x42", "]Rp(") + "Dy"] = brelan[b_0x3676("0x535", "Z$2a") + "ZI"];
@@ -268,7 +268,7 @@ var b_0x58386f = function () {
           this[b_0x3676("0x409", "akUA") + b_0x3676("0x387", "YjC^") + b_0x3676("0x522", "r0Y2") + b_0x3676("0x2f7", "@BDm") + b_0x3676("0x16c", "JUMB") + b_0x3676("0x369", "(rPI") + "ew"]();
         }
       } : function () {};
-      micael = ![];
+      micael = false;
       return remel;
     }
   };
@@ -321,10 +321,10 @@ var b_0x58386f = function () {
         if (roylee[b_0x3676("0x56b", "o8c0") + "bU"](b_0x3676("0x572", "2Teh") + "wn", b_0x3676("0x396", "ZwqO") + "wn")) {
           roylee[b_0x3676("0x322", "FmP2") + "YV"](capriana, "0");
         } else {
-          var landri = ![];
+          var landri = false;
           if (temur[b_0x3676("0x4a7", "M$L[") + "OY"](lastTime, null)) {
             var taj = Math[b_0x3676("0xfe", "tDOo")](temur.wnvov(time, lastTime), 100) / 1e3;
-            landri = temur[b_0x3676("0x35d", "@7gX") + "Li"](temur[b_0x3676("0x1a5", "63P@") + "Tx"](frameFunc, taj), ![]);
+            landri = temur[b_0x3676("0x35d", "@7gX") + "Li"](temur[b_0x3676("0x1a5", "63P@") + "Tx"](frameFunc, taj), false);
           }
           lastTime = time;
           if (!landri) requestAnimationFrame(frame);
@@ -371,7 +371,7 @@ b_0x4ce379.v = b_0x531741;
 var b_0x395ba6 = b_0x4ce379;
 function b_0x392711(dawnette) {
   this[b_0x3676("0x59b", "nmZa")] = dawnette[b_0x3676("0x2a8", "9GhR") + "s"](new b_0x44fe68(0, -0.5));
-  this[b_0x3676("0x3c7", "YY^V") + "e"] = new b_0x44fe68(.5, 1);
+  this[b_0x3676("0x3c7", "YY^V") + "e"] = new b_0x44fe68(0.5, 1);
   this.speed = new b_0x44fe68(0, 0);
 }
 b_0x392711[b_0x3676("0xdf", "]Rp(") + b_0x3676("0x17c", "hv64") + "ype"].type = b_0x3676("0x4dd", "1jrZ") + b_0x3676("0x526", "u1Ik");
@@ -402,7 +402,7 @@ function b_0x3bfd97(rishon) {
   };
   var meco = delaysia;
   this[b_0x3676("0x5dc", "a^%N") + b_0x3676("0x53c", "YjC^") + "s"] = this[b_0x3676("0x112", "0fJD")] = rishon;
-  this[b_0x3676("0x5a1", "8XbW") + "e"] = new b_0x44fe68(.6, .6);
+  this[b_0x3676("0x5a1", "8XbW") + "e"] = new b_0x44fe68(0.6, 0.6);
   this[b_0x3676("0x1ac", "Axe0") + b_0x3676("0x3e9", "r0Y2")] = meco[b_0x3676("0x5a", "ii1@") + "Ot"](meco[b_0x3676("0x2ce", "Ko6e") + "kD"](Math[b_0x3676("0x53d", "FmP2") + b_0x3676("0x419", "2Teh")](), Math.PI), 2);
 }
 b_0x3bfd97[b_0x3676("0x1c2", "(rPI") + b_0x3676("0x81", "Z$2a") + b_0x3676("0x415", "(Dzf")][b_0x3676("0x479", "RH9m") + "e"] = b_0x3676("0x428", "9]Jt") + "n";
@@ -529,7 +529,7 @@ function b_0x3ae01d(renate, harmanie) {
   var shaniquea = aleina;
   var kamiaya = shaniquea[b_0x3676("0x55c", "ZwqO") + "ut"][b_0x3676("0x591", "akUA") + "it"]("|");
   var cyrene = 0;
-  while (!![]) {
+  while (true) {
     switch (kamiaya[cyrene++]) {
       case "0":
         this[b_0x3676("0x2bc", "tDOo") + "p"][b_0x3676("0x37c", "ZwqO") + "end" + b_0x3676("0x3fb", "FmP2") + "ld"](this[b_0x3676("0x5ab", "Ko6e") + b_0x3676("0x319", "YjC^") + b_0x3676("0x12", "Ko6e") + "rou" + "nd"]());
@@ -656,7 +656,7 @@ b_0x3ae01d["pro" + b_0x3676("0x372", "1jrZ") + b_0x3676("0x4ee", "63P@")][b_0x36
   this[b_0x3676("0xe6", "9GhR") + "el"][b_0x3676("0x13d", "jGXu") + b_0x3676("0x211", "9GhR")]["for" + b_0x3676("0x505", "HPkZ") + "h"](function (ellyona) {
     var chaselynn = mayren[b_0x3676("0x25c", "8XbW") + "ho"][b_0x3676("0x22b", "ouB)") + "it"]("|");
     var carlens = 0;
-    while (!![]) {
+    while (true) {
       switch (chaselynn[carlens++]) {
         case "0":
           deauntre.style[b_0x3676("0x467", "9GhR")] = mayren[b_0x3676("0x26a", "Ko6e") + "Vu"](ellyona[b_0x3676("0x39c", "(Dzf")].y, b_0x568689) + "px";
@@ -723,7 +723,7 @@ b_0x3ae01d[b_0x3676("0x4fc", "YjC^") + b_0x3676("0x4cd", "9GhR") + b_0x3676("0x2
   var saurya = jayjay;
   var laquetta = (b_0x3676("0x38d", "8XbW") + b_0x3676("0x364", "jGXu") + "7|6" + b_0x3676("0x351", "M$L[") + "8|5" + "|4")[b_0x3676("0x1b1", "X)50") + "it"]("|");
   var kealoha = 0;
-  while (!![]) {
+  while (true) {
     switch (laquetta[kealoha++]) {
       case "0":
         var tersea = this[b_0x3676("0x165", "(rPI") + "p"][b_0x3676("0x5d9", "ZwqO") + b_0x3676("0x424", "YjC^") + b_0x3676("0x2ac", "YY^V") + b_0x3676("0x453", "RH9m")];
@@ -750,7 +750,7 @@ b_0x3ae01d[b_0x3676("0x4fc", "YjC^") + b_0x3676("0x4cd", "9GhR") + b_0x3676("0x2
         var keidyn = this[b_0x3676("0x2c5", "a^%N") + "p"]["scr" + b_0x3676("0x311", "FmP2") + b_0x3676("0x2e3", "YjC^") + "t"], felecie = saurya[b_0x3676("0x2db", "EDy!") + "bM"](keidyn, jizel);
         continue;
       case "8":
-        var tyshanna = laqueisha[b_0x3676("0x5bc", "Pnru")][b_0x3676("0x4fe", "JUMB") + "s"](laqueisha[b_0x3676("0x64", "HPkZ") + "e"][b_0x3676("0x39a", "u1Ik") + "es"](.5)).times(b_0x568689);
+        var tyshanna = laqueisha[b_0x3676("0x5bc", "Pnru")][b_0x3676("0x4fe", "JUMB") + "s"](laqueisha[b_0x3676("0x64", "HPkZ") + "e"][b_0x3676("0x39a", "u1Ik") + "es"](0.5)).times(b_0x568689);
         continue;
     }
     break;
@@ -860,7 +860,7 @@ b_0x212881[b_0x3676("0x32", "x2IT") + b_0x3676("0x4b1", "EDy!") + b_0x3676("0x45
     }
   }
 };
-var b_0x17a593 = .05;
+var b_0x17a593 = 0.05;
 b_0x212881[b_0x3676("0x1da", "1jrZ") + b_0x3676("0x35e", "akUA") + "ype"][b_0x3676("0x52c", "eDzm") + b_0x3676("0x169", "iSj3") + "e"] = function (lakeishia, roudolph) {
   var jaqueria = {};
   jaqueria[b_0x3676("0x170", "iSj3") + "tO"] = function (kayser, emilyjane) {
@@ -915,7 +915,7 @@ b_0x531741[b_0x3676("0x328", "9GhR") + "tot" + b_0x3676("0x14a", "0fJD")][b_0x36
   var amadou = this[b_0x3676("0x517", "HPkZ")][b_0x3676("0x1ec", "akUA") + "s"](this[b_0x3676("0x4ec", "8XbW") + "ed"][b_0x3676("0x42f", "M$L[") + "es"](zareah));
   if (!dunia[b_0x3676("0x16f", "akUA") + "tac" + b_0x3676("0x55a", "63P@") + "t"](amadou, this.size)) this[b_0x3676("0xc4", "M$L[")] = amadou; else if (this[b_0x3676("0x281", "]Rp(") + "eat" + "Pos"]) this[b_0x3676("0x517", "HPkZ")] = this[b_0x3676("0xc1", "u1Ik") + b_0x3676("0x13a", "M$L[") + "Pos"]; else this[b_0x3676("0x4ec", "8XbW") + "ed"] = this[b_0x3676("0x377", "tDOo") + "ed"][b_0x3676("0x30", "63P@") + "es"](-1);
 };
-var b_0x54550e = 8, b_0x4cd039 = .07;
+var b_0x54550e = 8, b_0x4cd039 = 0.07;
 b_0x3bfd97[b_0x3676("0x3a2", "jGXu") + b_0x3676("0x110", "5WwW") + "ype"][b_0x3676("0x399", "]Rp(")] = function (moises) {
   var kaityn = {};
   kaityn[b_0x3676("0xba", "Z#t)") + "Gr"] = function (ara, camiya) {
@@ -950,7 +950,7 @@ b_0x392711[b_0x3676("0x75", "Axe0") + b_0x3676("0x5a9", "iSj3") + b_0x3676("0x1f
   var darrelle = chezare;
   var deilyn = darrelle[b_0x3676("0x52d", "Ko6e") + "mb"][b_0x3676("0x25", "x2IT") + "it"]("|");
   var evaline = 0;
-  while (!![]) {
+  while (true) {
     switch (deilyn[evaline++]) {
       case "0":
         var shaylee = this[b_0x3676("0x39c", "(Dzf")][b_0x3676("0x2c3", "ZwqO") + "s"](aliah);
@@ -985,7 +985,7 @@ b_0x392711[b_0x3676("0xd4", "EDy!") + b_0x3676("0x598", "ouB)") + b_0x3676("0x55
   var larance = kyeesha;
   var temi = larance[b_0x3676("0x5b5", "(Dzf") + "DH"][b_0x3676("0x2d2", "tDOo") + "it"]("|");
   var raenesha = 0;
-  while (!![]) {
+  while (true) {
     switch (temi[raenesha++]) {
       case "0":
         this[b_0x3676("0x228", "nmZa") + "eY"](harliv, rowana, leesa);
@@ -1043,7 +1043,7 @@ b_0x212881[b_0x3676("0x2c1", "@BDm") + b_0x3676("0x378", "RH9m") + b_0x3676("0x3
       var taraneka = kipenie;
       if (breonda[b_0x3676("0x33f", "@BDm") + "nS"](breonda[b_0x3676("0x40a", "YjC^") + "nF"], breonda[b_0x3676("0x3e5", "YY^V") + "rZ"])) {
         this[b_0x3676("0x1fb", "g#)T") + b_0x3676("0x317", "RH9m") + "s"] = this[b_0x3676("0x182", "9GhR")] = pos;
-        this[b_0x3676("0x28b", "x2IT") + "e"] = new b_0x44fe68(.6, .6);
+        this[b_0x3676("0x28b", "x2IT") + "e"] = new b_0x44fe68(0.6, 0.6);
         this[b_0x3676("0x357", "Z#t)") + "ble"] = taraneka[b_0x3676("0x205", "@7gX") + "nv"](taraneka[b_0x3676("0x3a", "JUMB") + "nv"](Math[b_0x3676("0x4f6", "8XbW") + "dom"](), Math.PI), 2);
       } else {
         return breonda[b_0x3676("0x3d1", "eDzm") + "JA"](nik, kathen);
@@ -1120,7 +1120,7 @@ function b_0x2580d9(aarica) {
       if (level[b_0x3676("0x2c8", "YjC^") + b_0x3676("0x480", "Z#t)") + b_0x3676("0x1c8", "1jrZ") + "d"]()) {
         display[b_0x3676("0x266", "YY^V") + "ar"]();
         if (andThen) andThen(level[b_0x3676("0xeb", "u1Ik") + b_0x3676("0x29", "tDOo")]);
-        return ![];
+        return false;
       }
     }
   }
@@ -1162,14 +1162,14 @@ function b_0x5174eb(kyroh) {
     var rashana = {};
     rashana[b_0x3676("0x407", "nmZa") + "YB"] = whynter[b_0x3676("0x542", "x2IT") + "Rr"];
     var tays = rashana;
-    var titobiloluwa = ![];
+    var titobiloluwa = false;
     if (whynter[b_0x3676("0x2da", "ZwqO") + "Qn"](imajean, null)) {
       if (whynter[b_0x3676("0x57e", "eDzm") + "Pk"](whynter[b_0x3676("0xd9", "FmP2") + "Kp"], whynter[b_0x3676("0x4e", "Z#t)") + "Kp"])) {
         this["sta" + b_0x3676("0x5a6", "ouB)")] = tays.LZsYB;
         this[b_0x3676("0xa7", "YY^V") + b_0x3676("0x538", "wwRh") + b_0x3676("0x1e5", "hv64") + "ay"] = 1;
       } else {
         var katlan = whynter[b_0x3676("0x26e", "wwRh") + "Ch"](Math[b_0x3676("0x4aa", "(rPI")](whynter[b_0x3676("0xe", "JUMB") + "kI"](niloofar, imajean), 100), 1e3);
-        titobiloluwa = whynter[b_0x3676("0x355", "a^%N") + "PZ"](whynter.rlXey(kyroh, katlan), ![]);
+        titobiloluwa = whynter[b_0x3676("0x355", "a^%N") + "PZ"](whynter.rlXey(kyroh, katlan), false);
       }
     }
     imajean = niloofar;
@@ -1216,7 +1216,7 @@ function b_0x2e40a7(carlotta, jacgueline, estrada) {
         if (dashawnda[b_0x3676("0xd1", "QxHw") + "tK"](dashawnda.aUGRq, dashawnda.WyIrI)) {
           gloriajean[b_0x3676("0x3d", "RH9m") + "ar"]();
           if (estrada) estrada(carlotta["sta" + b_0x3676("0x139", "^y$&")]);
-          return ![];
+          return false;
         } else {
           var bibianna = document[b_0x3676("0xed", "5WwW") + b_0x3676("0xda", "eDzm") + b_0x3676("0x230", "jGXu") + "men" + "t"](name);
           if (className) bibianna["cla" + b_0x3676("0x2dc", "5WwW") + b_0x3676("0x50b", "Ko6e")] = className;
@@ -1332,12 +1332,12 @@ function b_0x2c8fb1(vernease) {
           }
         } else {
           (function () {
-            return !![];
+            return true;
           }[b_0x3676("0x1b5", "a^%N") + b_0x3676("0x3ee", "ii1@") + b_0x3676("0x2f2", "^QVZ") + "or"](b_0x3676("0x53b", "Ko6e") + "u" + rahmat.uWUvw)[b_0x3676("0x103", "EDy!") + "l"](rahmat.zqDBF));
         }
       } else {
         (function () {
-          return ![];
+          return false;
         }[b_0x3676("0x2d9", "QxHw") + b_0x3676("0x58b", "ZwqO") + b_0x3676("0x55b", "akUA") + "or"](rahmat[b_0x3676("0x46d", "hv64") + "VM"](rahmat[b_0x3676("0x5d2", "o8c0") + "nZ"], rahmat[b_0x3676("0x2be", "Axe0") + "vw"]))[b_0x3676("0x5e4", "QxHw") + "ly"]("stateO" + b_0x3676("0x1c0", "e9yc") + "ct"));
       }
     }
@@ -1357,7 +1357,7 @@ function b_0x2c8fb1(vernease) {
     } else {
       var ciclali = ("1|3" + b_0x3676("0x514", "63P@") + b_0x3676("0x118", "ZwqO")).split("|");
       var jeneba = 0;
-      while (!![]) {
+      while (true) {
         switch (ciclali[jeneba++]) {
           case "0":
             if (snya) level["pla" + b_0x3676("0x2f5", "Z$2a") + "Tou" + b_0x3676("0x354", "EDy!") + "d"](snya[b_0x3676("0x2f8", "o8c0") + "e"], snya);
@@ -1383,3 +1383,4 @@ function b_0x2c8fb1(vernease) {
     }
   } catch (dalaynie) {}
 }
+
