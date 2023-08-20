@@ -1,1 +1,2 @@
-Mario like side scroller written purely in javascript
+# Mario like side scroller written purely in javascript
+
